@@ -1,9 +1,7 @@
 ---
-title: PharmGKB Consortia
+title: PGx Consortia
 permalink: index.html
 ---
-
-# Consortia Working Groups
 
 The [PGRN](https://www.pgrn.org) works with [PharmGKB](http://www.pharmgkb.org), which convenes consortia in areas where researchers agree to share data and knowlege to answer common questions in pharmacogenomics.  Contact [feedback@pharmgkb.org](mailto:feedback@pharmgkb.org) to learn more.
 
